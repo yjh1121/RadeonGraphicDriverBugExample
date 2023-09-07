@@ -1,0 +1,20 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(C:\Users\yjh1121\source\repos\LearningOpenGL-master\LearningOpenGL-master\bin\intermediates\Debug\x86\)에 다른 프로젝트(7_Transformations.vcxproj, 8_DrawingLines.vcxproj, Common.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  application.cpp
+C:\Users\yjh1121\source\repos\LearningOpenGL-master\LearningOpenGL-master\9_MultipleTextures\src\application.cpp(31,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+glfw3.lib(context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(input.obj) : warning LNK4099: '' PDB를 'glfw3.lib(input.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(vulkan.obj) : warning LNK4099: '' PDB를 'glfw3.lib(vulkan.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_init.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_init.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_joystick.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_joystick.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_monitor.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_monitor.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_time.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_time.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_tls.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_tls.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(win32_window.obj) : warning LNK4099: '' PDB를 'glfw3.lib(win32_window.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(wgl_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(wgl_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+glfw3.lib(egl_context.obj) : warning LNK4099: '' PDB를 'glfw3.lib(egl_context.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  9_MultipleTextures.vcxproj -> C:\Users\yjh1121\source\repos\LearningOpenGL-master\LearningOpenGL-master\bin\Debug\x86\9_MultipleTextures.exe
+  0개 파일이 복사되었습니다.
+  0개 파일이 복사되었습니다.
